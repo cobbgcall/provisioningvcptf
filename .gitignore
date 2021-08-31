@@ -1,3 +1,5 @@
 *.hcl
 *.plan
 /.terraform/
+.terraform
+./terraform/*
